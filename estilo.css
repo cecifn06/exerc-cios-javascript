@@ -6,7 +6,7 @@ body {
 } 
 
 header{
-    color: white;
+    color: rgb(32, 35, 61);
     text-align: center;
 
 
@@ -28,4 +28,9 @@ footer{
     text-align: center;
     font-style: italic;
 
+}
+
+div {
+    text-align: center;
+    padding: 15px;
 }
